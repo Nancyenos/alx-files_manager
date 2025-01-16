@@ -17,7 +17,7 @@ Simple file management API that allows users to:
 Clone the repo
 
 ```
-git clone https://github.com/ngugimuchangi/alx-files_manager.git
+git clone https://github.com/nancyenos/alx-files_manager.git
 ```
 
 Install required dependencies
@@ -52,7 +52,7 @@ Environment variables you can adjust when running the express server
 ## Documentation
 
 The API's documentation is available at
-[here](https://ngugimuchangi.me/alx-files_manager/)
+[here]()
 
 ## Tests
 
